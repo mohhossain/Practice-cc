@@ -1,4 +1,5 @@
-{ "users" :[
+{
+  "users": [
     {
       "id": 1,
       "username": "dstelle0",
@@ -9,9 +10,7 @@
       "post": "Curabitur in libero ut massa volutpat convallis.",
       "likes": 84,
       "comments": [
-        "I agree",
-        "Nice",
-        "I support you"
+        "KJNFkljadnsf"
       ]
     },
     {
@@ -41,7 +40,8 @@
       "comments": [
         "I agree",
         "Nice",
-        "I support you"
+        "I support you",
+        "So happy for you!"
       ]
     },
     {
