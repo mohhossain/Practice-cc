@@ -1,0 +1,57 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+#user-detail{
+    border: 1px saddlebrown solid;
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    box-shadow: saddlebrown 2px 2px 5px;
+}
+
+#like{
+    width: 50px;
+}
+
+#name-avatar{
+    display: flex;
+    flex-direction: row;
+}
+
+#user-list{
+    margin: 50px;
+    display: grid;
+    justify-content: center;
+}
+
+
+#user-list p{
+    border: 1px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+}
+
+#comments li{
+    list-style: none;
+    background-color: lightcoral;
+    color: white;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
+#post{
+    background-color: aliceblue;
+    height: 80px;
+    border: 1px skyblue solid;
+    text-align: center;
+}
+
